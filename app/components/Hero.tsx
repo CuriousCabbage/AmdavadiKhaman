@@ -34,7 +34,7 @@ export default function Hero({ userPoints, onOrderNow }: HeroProps) {
           <div className="max-w-lg py-6"> 
             {/* Reverted font size back to md:text-5xl */}
             <h1 className="text-4xl md:text-5xl font-extrabold text-white leading-tight tracking-tight drop-shadow-lg">
-              Test Gujarat <br /> In every Bite!
+              Taste Gujarat <br /> In every Bite!
             </h1>
             {/* Reverted font size back to standard text-lg */}
             <p className="mt-3 text-orange-100 text-lg max-w-md leading-relaxed drop-shadow-md">
